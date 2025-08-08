@@ -1,1 +1,1 @@
-RG1 = ["gaurav","oberoi","chopra","malhotra","suresh"]
+RG1 = ["RG-ENV-001","RG-ENV-002","RG-ENV-003","RG-ENV-004","RG-ENV-005"]

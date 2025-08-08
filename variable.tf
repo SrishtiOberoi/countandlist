@@ -1,4 +1,4 @@
 variable "RG1" {
     type = list(string)
-    default = ["srishti","gaurav","hitesh","srishti2","gaurav2"]
+    default = ["RG001","RG002","RG003","RG004","RG004"]
 }
